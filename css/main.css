@@ -45,7 +45,7 @@ ul.posts li {
     display: flex;
 }
 figure{
-width: 200px
+width: 200px;
 }
 figure img{
     width: 100%;
