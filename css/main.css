@@ -40,8 +40,10 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
+.gallery{
+    display: flex;
 }
-figure
+figure{
 width: 200px
 }
 figure img{
