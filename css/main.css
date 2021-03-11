@@ -47,3 +47,7 @@ ul.posts li {
 figure figcaption{
     text-align: center;
 }
+img{
+    maz-widt: 100%;
+    height: auto;
+}
