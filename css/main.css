@@ -44,12 +44,6 @@ ul.posts li {
 .gallery{
     display: flex;
 }
-figure{
-width: 200px;
-}
-figure img{
-    width: 100%;
-}
 figure figcaption{
     text-align: center;
 }
